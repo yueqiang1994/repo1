@@ -1,0 +1,4 @@
+com\pinyougou\seckill\service\impl\SeckillOrderServiceImpl.class
+com\pinyougou\seckill\pojo\RecordInfo.class
+com\pinyougou\seckill\thread\CreateOrderHandlerThread.class
+com\pinyougou\seckill\service\impl\SeckillGoodsServiceImpl.class
